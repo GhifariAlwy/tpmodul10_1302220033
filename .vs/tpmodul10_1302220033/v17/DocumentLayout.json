@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\KULIAH\\KPL\\tpmodul10_1302220033\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3236E370-D545-4FCE-9B25-C177A5078096}|tpmodul10_1302220033\\tpmodul10_1302220033.csproj|c:\\kuliah\\kpl\\tpmodul10_1302220033\\tpmodul10_1302220033\\tpmodul10_1302220033.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3236E370-D545-4FCE-9B25-C177A5078096}|tpmodul10_1302220033\\tpmodul10_1302220033.csproj|solutionrelative:tpmodul10_1302220033\\tpmodul10_1302220033.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3236E370-D545-4FCE-9B25-C177A5078096}|tpmodul10_1302220033\\tpmodul10_1302220033.csproj|c:\\kuliah\\kpl\\tpmodul10_1302220033\\tpmodul10_1302220033\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3236E370-D545-4FCE-9B25-C177A5078096}|tpmodul10_1302220033\\tpmodul10_1302220033.csproj|solutionrelative:tpmodul10_1302220033\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tpmodul10_1302220033.http",
+              "DocumentMoniker": "C:\\KULIAH\\KPL\\tpmodul10_1302220033\\tpmodul10_1302220033\\tpmodul10_1302220033.http",
+              "RelativeDocumentMoniker": "tpmodul10_1302220033\\tpmodul10_1302220033.http",
+              "ToolTip": "C:\\KULIAH\\KPL\\tpmodul10_1302220033\\tpmodul10_1302220033\\tpmodul10_1302220033.http",
+              "RelativeToolTip": "tpmodul10_1302220033\\tpmodul10_1302220033.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-28T18:46:19.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KULIAH\\KPL\\tpmodul10_1302220033\\tpmodul10_1302220033\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul10_1302220033\\Program.cs",
+              "ToolTip": "C:\\KULIAH\\KPL\\tpmodul10_1302220033\\tpmodul10_1302220033\\Program.cs",
+              "RelativeToolTip": "tpmodul10_1302220033\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:42:06.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
